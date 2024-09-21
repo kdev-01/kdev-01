@@ -1,7 +1,7 @@
 ![Banner de Kevin Tapia](Banner.png)
-<h3>I am a software engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p></h3>
-<h3>My knowledge includes:</h3>
+### I am a software engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+### My knowledge includes:
+
 ```javascript
 const aboutMe = {
     programmingLanguages: ["JavaScript", "Python", "C#", "C++"],
