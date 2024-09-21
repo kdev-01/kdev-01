@@ -9,6 +9,6 @@ const aboutMe = {
     tools: ["Git", "Node.js", "Notion"],
     uxUiDesign: true,
     databases: ["Microsoft SQL Server", "MySQL", "PostgreSQL"],
-    knowledgeAreas: ["Networking", "Cybersecurity Fundamentals"]
+    knowledgeAreas: ["Network Infrastructure", "Cybersecurity Fundamentals"]
 };
 ```
